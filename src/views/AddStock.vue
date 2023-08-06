@@ -184,6 +184,7 @@ export default {
           { headerName: "Location", field: "location" },
           { headerName: "Store Name", field: "store_name" },
           { headerName: "In-Stock Date", field: "in_stock_date" },
+          
         ],
         defaultColDef: {
           flex: 1,
